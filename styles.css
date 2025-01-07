@@ -40,7 +40,7 @@ button {
     border: none;
     outline: none;
     border-radius: 5px;
-    background: #e0e0e0;
+    background: #a4a4a4;
     cursor: pointer;
     transition: 0.2s;
 }
@@ -58,10 +58,10 @@ button.zero {
 }
 
 button:last-child {
-    background-color: #4caf50;
+    background-color: #ff1919;
     color: white;
 }
 
 button:last-child:hover {
-    background-color: #45a049;
+    background-color: #ff7474;
 }
